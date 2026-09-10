@@ -1,4 +1,4 @@
-# 📱 Spam Classification
+# Spam Classification
 
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project develops a machine learning model to automatically classify SMS messages as either **Spam** or **Ham (legitimate)**.
 
@@ -26,22 +26,22 @@ The complete workflow includes data preparation, exploratory data analysis, text
 
 ---
 
-## 🎯 Objectives
+ Objectives
 
 The main objectives of this project are to:
 
-* Analyze the SMS Spam Collection dataset.
-* Explore the distribution of Spam and Ham messages.
-* Preprocess and clean textual SMS data.
-* Convert text into numerical features using TF-IDF.
-* Train a Linear Support Vector Machine classifier.
-* Optimize model hyperparameters using GridSearchCV.
-* Evaluate the model using multiple classification metrics.
-* Build a model capable of predicting whether a new SMS is Spam or Ham.
+-> Analyze the SMS Spam Collection dataset.
+-> Explore the distribution of Spam and Ham messages.
+-> Preprocess and clean textual SMS data.
+-> Convert text into numerical features using TF-IDF.
+-> Train a Linear Support Vector Machine classifier.
+-> Optimize model hyperparameters using GridSearchCV.
+-> Evaluate the model using multiple classification metrics.
+-> Build a model capable of predicting whether a new SMS is Spam or Ham.
 
 ---
 
-## 📊 Dataset
+ Dataset
 
 The project uses the **SMS Spam Collection Dataset**.
 
@@ -107,7 +107,7 @@ The dataset contains two primary variables used in this project:
 
 ---
 
-## 🧹 Data Preprocessing
+##  Data Preprocessing
 
 The text-processing workflow includes Natural Language Processing techniques such as:
 
@@ -121,7 +121,7 @@ The processed text is then converted into numerical features using TF-IDF.
 
 ---
 
-## 🔢 Feature Engineering — TF-IDF
+##  Feature Engineering — TF-IDF
 
   ![Data Analysis]
 
@@ -137,7 +137,7 @@ This allows the model to capture both individual words and short word combinatio
 
 ---
 
-## 🤖 Machine Learning Model
+##  Machine Learning Model
 
 ### Linear Support Vector Machine
 
@@ -167,7 +167,7 @@ The model is evaluated using **5-fold cross-validation** during hyperparameter t
 
 ---
 
-## 📈 Model Evaluation
+##  Model Evaluation
 
 The model evaluation includes:
 
@@ -182,7 +182,7 @@ These metrics provide a more complete understanding of classification performanc
 
 ---
 
-## 📸 Results / Visualizations
+##  Results / Visualizations
 
 
  
@@ -192,7 +192,7 @@ These metrics provide a more complete understanding of classification performanc
 
 
 
-## 🛠️ Technologies
+##  Technologies
 
 | Technology       | Purpose                     |
 | ---------------- | --------------------------- |
@@ -209,7 +209,7 @@ These metrics provide a more complete understanding of classification performanc
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 SMS-Spam-Classification-SVM/
@@ -219,18 +219,18 @@ SMS-Spam-Classification-SVM/
 ├── 📄 requirements.txt
 ├── 📄 .gitignore
 │
-├── 📁 images/
+├──  images/
 │   ├── profile.jpg
 │   ├── results.png
 │   └── confusion_matrix.png
 │
-└── 📁 data/
+└──  data/
     └── README.md
 ```
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 Clone the repository:
 
@@ -252,7 +252,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### Option 1 — Jupyter Notebook
 
@@ -268,31 +268,31 @@ The dataset should be downloaded separately from the original source and supplie
 
 ---
 
-## 📚 Project Highlights
+##  Project Highlights
 
-### 🔹 Natural Language Processing
+###  Natural Language Processing
 
 Applied text preprocessing techniques to prepare raw SMS messages for machine learning.
 
-### 🔹 Feature Extraction
+###  Feature Extraction
 
 Used TF-IDF with unigram and bigram features to transform text into numerical representations.
 
-### 🔹 Machine Learning
+### Machine Learning
 
 Implemented a Linear Support Vector Machine for Spam/Ham classification.
 
-### 🔹 Model Optimization
+###  Model Optimization
 
 Used GridSearchCV with 5-fold cross-validation for hyperparameter optimization.
 
-### 🔹 Performance Analysis
+###  Performance Analysis
 
 Evaluated the classifier using accuracy, precision, recall, F1-score, confusion matrix, and cross-validation.
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 Potential improvements for this project include:
 
@@ -306,7 +306,7 @@ Potential improvements for this project include:
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 
 
@@ -322,7 +322,7 @@ Potential improvements for this project include:
 
 ---
 
-## 📜 License
+##  License
 
 This project is intended for educational and portfolio purposes.
 
@@ -331,7 +331,7 @@ Please refer to the original dataset source for the dataset's licensing and usag
 ---
 
 <p align="center">
-  ⭐ If you found this project useful, consider giving the repository a star!
+   If you found this project useful, consider giving the repository a star!
 </p>
 
 <p align="center">
