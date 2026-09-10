@@ -1,8 +1,5 @@
-# 📱 SMS Spam Classification using SVM
+# 📱 Spam Classification
 
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAFyuYRPydoMV8HBal73A5v4uD-hy3-t_xpD4k7yI7aNG446wpCs7oJYU&s=10">
-</p>
 
 <p align="center">
   <strong>Machine Learning • Natural Language Processing • Text Classification</strong>
@@ -126,7 +123,7 @@ The processed text is then converted into numerical features using TF-IDF.
 
 ## 🔢 Feature Engineering — TF-IDF
 
-  ![Data Analysis](https://github.com/Mehedi-Hasan71/SMS-Spam-Classification-SVM/blob/main/Screenshot%202026-08-11%20224639.png?raw=true)
+  ![Data Analysis]
 
 **TF-IDF** is used to represent SMS messages numerically based on the importance of words within the dataset.
 
@@ -189,7 +186,7 @@ These metrics provide a more complete understanding of classification performanc
 
 
  
-  ![Profile Photo](https://github.com/Mehedi-Hasan71/SMS-Spam-Classification-SVM/blob/main/Screenshot%202026-08-11%20232259.png?raw=true)
+  
 
 
 
@@ -311,22 +308,17 @@ Potential improvements for this project include:
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mehedi-Hasan71/SMS-Spam-Classification-SVM/refs/heads/main/WhatsApp%20Image%202026-08-11%20at%2010.54.53%20PM.jpeg" 
-       alt="Profile" 
-       width="220" 
-       height="250">
-</p>
+
 
 <p align="center">
-  <strong>Md.Mehedi Hassan Ridoy</strong><br>
+  <strong>Muntasir Ahammed</strong><br>
   Undergraduate Student | Information and Communication Technology in BUP<br>
   Interested in Data Science, Machine Learning & AI
 </p>
 
 ### Connect With Me
 
-#mehedi71359091@gmail.com
+#ahammednabil123@gmail.com
 
 ---
 
@@ -343,5 +335,5 @@ Please refer to the original dataset source for the dataset's licensing and usag
 </p>
 
 <p align="center">
-  <i>Built with Python, NLP & Machine Learning</i>
+  <i>Built with Python,NLP & Machine Learning</i>
 </p>
